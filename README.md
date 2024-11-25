@@ -3,7 +3,44 @@
 Forever Full Stack is a full-stack web application that includes an admin panel, a frontend for users, and a backend server. The project is built using React, Vite, Express, and MongoDB. It also features role-based access control to manage different user permissions.
 
 ## Project Structure
-forever-full-stack/ ├── admin/ │ ├── .env │ ├── .eslintrc.cjs │ ├── .gitignore │ ├── index.html │ ├── package.json │ ├── postcss.config.js │ ├── public/ │ ├── README.md │ ├── src/ │ ├── tailwind.config.js │ └── vite.config.js ├── backend/ │ ├── .env │ ├── .gitignore │ ├── config/ │ ├── controllers/ │ ├── middleware/ │ ├── models/ │ ├── package.json │ ├── routes/ │ ├── server.js │ └── vercel.json ├── frontend/ │ ├── .env │ ├── .eslintrc.cjs │ ├── .gitignore │ ├── index.html │ ├── package.json │ ├── postcss.config.js │ ├── public/ │ ├── README.md │ ├── src/ │ ├── tailwind.config.js │ └── vite.config.js └── How To Run Project.txt
+forever-full-stack/ 
+├── admin/ 
+│ ├── .env 
+│ ├── .eslintrc.cjs 
+│ ├── .gitignore 
+│ ├── index.html 
+│ ├── package.json 
+│ ├── postcss.config.js 
+│ ├── public/ 
+│ ├── README.md 
+│ ├── src/ 
+│ ├── tailwind.config.js 
+│ └── vite.config.js 
+├── backend/ 
+│ ├── .env 
+│ ├── .gitignore 
+│ ├── config/ 
+│ ├── controllers/ 
+│ ├── middleware/ 
+│ ├── models/ 
+│ ├── package.json 
+
+│ ├── routes/ 
+│ ├── server.js 
+│ └── vercel.json 
+├── frontend/ 
+│ ├── .env 
+│ ├── .eslintrc.cjs 
+│ ├── .gitignore 
+│ ├── index.html 
+│ ├── package.json 
+│ ├── postcss.config.js 
+│ ├── public/ 
+│ ├── README.md 
+│ ├── src/ 
+│ ├── tailwind.config.js 
+│ └── vite.config.js 
+└── README.md
 
 
 ## Features
