@@ -31,7 +31,9 @@ The project implements role-based access control to ensure that only authorized 
 ## Setup Instructions
 
 1. Clone the repository:
-   ```git clone https://github.com/yourusername/forever-full-stack.git```
+   ```
+   git clone https://github.com/yourusername/forever-full-stack.git
+   ```
 
 2. Install dependencies for backend:
     ```
@@ -40,13 +42,15 @@ The project implements role-based access control to ensure that only authorized 
     ```
 
 3. Install dependencies for frontend:
-    ```cd ../frontend
-        npm install
+    ```
+    cd ../frontend
+    npm install
     ```
 
 4. Install dependencies for the admin panel:
-    ```cd ../admin
-        npm install
+    ```
+    cd ../admin
+    npm install
     ```
 
 5. Create a .env file in the backend directory and add your environment variables:
@@ -58,16 +62,19 @@ The project implements role-based access control to ensure that only authorized 
     ```
 
 6. Run the backend server:
-    ```cd ../backend
-        npm run server
+    ```
+    cd ../backend
+    npm run server
     ```
 
 7. Start the frontend development server:
-    ```cd ../frontend
-        npm run dev
+    ```
+    cd ../frontend
+    npm run dev
     ```
 
 8. Start the admin panel development server:
-    ```cd ../admin
-        npm run dev
+    ```
+    cd ../admin
+    npm run dev
     ```
