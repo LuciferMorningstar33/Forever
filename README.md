@@ -31,11 +31,12 @@ The project implements role-based access control to ensure that only authorized 
 ## Setup Instructions
 
 1. Clone the repository:
-   `git clone https://github.com/yourusername/forever-full-stack.git`
+   ```git clone https://github.com/yourusername/forever-full-stack.git```
 
 2. Install dependencies for backend:
-    ```cd forever-full-stack/backend
-        npm install
+    ```
+    cd forever-full-stack/backend
+    npm install
     ```
 
 3. Install dependencies for frontend:
